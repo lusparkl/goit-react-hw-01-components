@@ -1,5 +1,5 @@
 import { FriendsItem } from "components/friendstItem/FriendsItem"
-import { Container, List } from "./FriendsList.styled"
+import { List } from "./FriendsList.styled"
 
 export const FriendList = ({ friends }) => {
     return (
